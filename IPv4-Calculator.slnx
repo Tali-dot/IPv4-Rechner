@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="IPv4-Calculator/IPv4-Calculator.csproj" />
+  <Project Path="IPv4-Calculator.BL/IPv4-Calculator.BL.csproj" Id="e8a5d9dd-9a62-4f68-8be3-6624c35c2305" />
+  <Project Path="IPv4-Calculator/IPv4-Calculator.Cmd.csproj" />
+  <Project Path="Subnet-Calc/Subnet-Calc.csproj" Id="4abc45b0-502d-4160-823b-d27a3e1fc5a6" />
 </Solution>
